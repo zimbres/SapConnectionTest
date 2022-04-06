@@ -12,3 +12,7 @@
 > Visual Studio 2013 (VC++ 12.0)<br>
 > https://aka.ms/highdpimfc2013x64enu<br>
 > https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+
+---
+
+*“SAP® is the trademark or registered trademark of SAP SE or its affiliates in Germany and in several other countries.”*
